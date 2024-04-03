@@ -1,0 +1,1 @@
+# lb-mebel-public
