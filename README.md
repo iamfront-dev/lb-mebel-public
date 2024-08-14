@@ -5,6 +5,7 @@
 TECH<strong>STACK</strong>
 
 ![](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 ![](https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white)
@@ -14,7 +15,7 @@ TECH<strong>STACK</strong>
 
 WEB<strong>SITE</strong>
 
-<a href="https://lb-mebel-beta.vercel.app">`https://lb-mebel-beta.vercel.app`</a>
+<a href="http://lbmebel.pl">`http://lbmebel.pl`</a>
 
 ##
 
