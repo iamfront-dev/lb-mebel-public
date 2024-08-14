@@ -24,3 +24,5 @@ CREATED<strong>BY</strong>
 <a href="https://iwonauxui.pl/">`Iwona Kucharska`</a>
 
 <a href="https://github.com/jaroslawkucharski">`Jarosław Kucharski`</a>
+
+</div>
