@@ -1,6 +1,11 @@
-<div align='center'>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/logo_dark.png">
+  <img src="images/logo_light.png" alt="iamfront.dev" width="200px" />
+</picture>
 
-# <img src='./images/lb-mebel.png' />
+<div align="center">
+
+# <img src="./images/lb-mebel.png" />
 
 TECH<strong>STACK</strong>
 
